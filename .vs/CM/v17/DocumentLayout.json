@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\CM\\CM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\type_mat2x2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\type_mat2x2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\type_vec_simd.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\type_vec_simd.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\setup.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\compute_vec_decl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\compute_vec_decl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\_vectorize.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\_vectorize.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\type_vec4.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\type_vec4.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\type_vec4.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\type_vec4.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\type_vec3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\type_vec3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\type_vec3.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\type_vec3.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\_fixes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\_fixes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\qualifier.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\qualifier.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\_swizzle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\_swizzle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|C:\\Dev\\CM\\CM\\CM\\detail\\compute_vector_relational.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFE2800D-68D1-4D5C-A108-477B66E699C3}|CM\\CM.vcxproj|solutionrelative:CM\\detail\\compute_vector_relational.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "type_mat2x2.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\type_mat2x2.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\type_mat2x2.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\type_mat2x2.hpp",
+              "RelativeToolTip": "CM\\detail\\type_mat2x2.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T12:58:10.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "type_vec_simd.inl",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec_simd.inl",
+              "RelativeDocumentMoniker": "CM\\detail\\type_vec_simd.inl",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec_simd.inl",
+              "RelativeToolTip": "CM\\detail\\type_vec_simd.inl",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-02T12:26:06.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "compute_vec_decl.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\compute_vec_decl.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\compute_vec_decl.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\compute_vec_decl.hpp",
+              "RelativeToolTip": "CM\\detail\\compute_vec_decl.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T12:46:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "type_vec3.inl",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec3.inl",
+              "RelativeDocumentMoniker": "CM\\detail\\type_vec3.inl",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec3.inl",
+              "RelativeToolTip": "CM\\detail\\type_vec3.inl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-31T12:25:34.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_vectorize.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\_vectorize.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\_vectorize.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\_vectorize.hpp",
+              "RelativeToolTip": "CM\\detail\\_vectorize.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T11:56:58.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_fixes.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\_fixes.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\_fixes.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\_fixes.hpp",
+              "RelativeToolTip": "CM\\detail\\_fixes.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T11:28:25.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "setup.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\setup.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\setup.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\setup.hpp",
+              "RelativeToolTip": "CM\\detail\\setup.hpp",
+              "ViewState": "AgIAAIsCAAAAAAAAAADwv6ACAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T11:00:07.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "type_vec4.inl",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec4.inl",
+              "RelativeDocumentMoniker": "CM\\detail\\type_vec4.inl",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec4.inl",
+              "RelativeToolTip": "CM\\detail\\type_vec4.inl",
+              "ViewState": "AgIAAAYEAAAAAAAAAAAAANcCAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-31T09:46:33.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "type_vec3.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec3.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\type_vec3.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec3.hpp",
+              "RelativeToolTip": "CM\\detail\\type_vec3.hpp",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAAALYBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T09:01:11.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "type_vec4.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec4.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\type_vec4.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\type_vec4.hpp",
+              "RelativeToolTip": "CM\\detail\\type_vec4.hpp",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T08:59:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "qualifier.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\qualifier.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\qualifier.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\qualifier.hpp",
+              "RelativeToolTip": "CM\\detail\\qualifier.hpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAGwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T07:59:31.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_swizzle.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\_swizzle.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\_swizzle.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\_swizzle.hpp",
+              "RelativeToolTip": "CM\\detail\\_swizzle.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T07:57:18.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "compute_vector_relational.hpp",
+              "DocumentMoniker": "C:\\Dev\\CM\\CM\\CM\\detail\\compute_vector_relational.hpp",
+              "RelativeDocumentMoniker": "CM\\detail\\compute_vector_relational.hpp",
+              "ToolTip": "C:\\Dev\\CM\\CM\\CM\\detail\\compute_vector_relational.hpp",
+              "RelativeToolTip": "CM\\detail\\compute_vector_relational.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-31T07:55:42.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
